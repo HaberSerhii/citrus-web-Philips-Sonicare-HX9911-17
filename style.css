@@ -1,12 +1,77 @@
-.main__title {
+.product__description.base-padding {
+  padding: 0;
+  border-radius: 0px;
+}
+
+.sonicare__hx9911 img {
+  margin: 0;
+}
+
+.sonicare__hx9911 p {
+  padding: 0;
+  margin: 0;
+  line-height: normal;
+}
+
+.sonicare__hx9911 h3 {
+  padding: 0;
+  margin: 0;
+  line-height: normal;
+}
+
+.sonicare__hx9911 ul {
+  list-style: none;
+  margin: 0;
+}
+
+.sonicare__hx9911 ul li {
+  line-height: normal;
+}
+
+.sonicare__hx9911 {
+  overflow: hidden;
+}
+
+body {
+  padding: 0;
+}
+
+.sonicare__hx9911 ul {
+  padding: 0;
+}
+
+.sonicare__hx9911 ul li {
+  padding: 0;
+}
+
+.sonicare__hx9911 div {
+  padding: 0;
+  width: initial;
+}
+
+div.sonicare__hx9911 {
+  padding: 0;
+}
+
+.sonicare__hx9911 br {
+  display: block;
+}
+
+.product__body .el-tabs__header {
+  z-index: 6;
+}
+
+.sonicare__hx9911 .main__title {
   font-family: var(--font-family);
   font-weight: 700;
   font-size: 36px;
   line-height: 130%;
   color: #fff;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-.description {
+.sonicare__hx9911 .main__description {
+  max-width: 300px;
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 18px;
@@ -14,19 +79,141 @@
   color: #fff;
 }
 
-.second__title {
+.sonicare__hx9911 .upper__main__title {
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 14px;
   line-height: 130%;
   color: #fff;
+  max-width: 154px;
 }
 
-.green__main__title {
+.sonicare__hx9911 .green__title {
   font-family: var(--font-family);
   font-weight: 700;
   font-size: 24px;
   line-height: 130%;
-  text-align: center;
   color: #269a91;
+  max-width: 300px;
+}
+
+.sonicare__hx9911 .green__description {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  color: #fff;
+}
+
+.sonicare__hx9911 .span__green__description {
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.sonicare__hx9911 .bold__green__description {
+  font-weight: 700;
+}
+
+.sonicare__hx9911 .about__title {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  color: #1e1e1e;
+  margin-bottom: 10px;
+}
+
+.sonicare__hx9911 .about__description {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+  color: #1e1e1e;
+}
+
+.sonicare__hx9911 .comments {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 150%;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.sonicare__hx9911 .hero__image {
+  height: 204px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/hero-background.webp");
+}
+
+.sonicare__hx9911 .hero__logo {
+  margin-left: 16px;
+}
+
+.sonicare__hx9911 .hero__main {
+  padding: 14px 16px;
+  background: linear-gradient(135deg, #269a91 0%, #5cb9bb 51.04%, #7eddde 100%);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  text-align: left;
+}
+.sonicare__hx9911 .hero__main__warranty {
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+
+.sonicare__hx9911 .benefits {
+  margin: 0 auto;
+  padding: 40px 16px;
+  max-width: 360px;
+}
+
+.sonicare__hx9911 .benefits__main__container {
+  border-radius: 24px;
+  padding: 24px 0px 0px 0px;
+  max-width: 328px;
+  color: #fff;
+  background: linear-gradient(135deg, #269a91 0%, #5cb9bb 51.04%, #7eddde 100%);
+}
+
+.sonicare__hx9911 .benefits__title {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.sonicare__hx9911 .benefits__image {
+  width: 100%;
+}
+
+.sonicare__hx9911 .benefits__main__container p {
+  margin: 0 16px;
+}
+
+.sonicare__hx9911 .about {
+  margin: 0 auto;
+  padding: 40px 16px;
+  max-width: 360px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.sonicare__hx9911 .about__item {
+  max-width: 328px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.sonicare__hx9911 .about__image {
+  border-radius: 140px;
+  max-width: 203px;
+  max-height: 203px;
+  margin-bottom: 18px;
 }
