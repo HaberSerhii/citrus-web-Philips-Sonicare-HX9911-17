@@ -327,13 +327,16 @@ div.sonicare__hx9911 {
   gap: 24px;
   align-items: flex-start;
   max-width: 296px;
+}
+
+.sonicare__hx9911 .compatible__logo__description {
   font-weight: 600;
   font-size: 16px;
   line-height: 150%;
   color: #000;
 }
 
-.compatible_logo {
+.sonicare__hx9911 .compatible_logo {
   width: 22%;
 }
 
