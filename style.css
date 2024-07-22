@@ -88,6 +88,7 @@ div.sonicare__hx9911 {
   line-height: 130%;
   color: #269a91;
   max-width: 300px;
+  text-align: center;
 }
 
 .sonicare__hx9911 .green__description {
@@ -144,6 +145,10 @@ div.sonicare__hx9911 {
   margin-left: 16px;
 }
 
+.sonicare__hx9911 .hero-number_one_logo {
+  width: 28%;
+}
+
 .sonicare__hx9911 .hero__main {
   padding: 14px 16px;
   background: linear-gradient(135deg, #269a91 0%, #5cb9bb 51.04%, #7eddde 100%);
@@ -164,6 +169,9 @@ div.sonicare__hx9911 {
   margin: 0 auto;
   padding: 40px 16px;
   max-width: 360px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .sonicare__hx9911 .benefits__main__container {
@@ -206,8 +214,7 @@ div.sonicare__hx9911 {
 
 .sonicare__hx9911 .about__image {
   border-radius: 140px;
-  max-width: 203px;
-  max-height: 203px;
+  width: 62%;
   margin-bottom: 18px;
 }
 
@@ -226,8 +233,7 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .features__image {
-  max-width: 168px;
-  height: 316px;
+  width: 52%;
 }
 
 .sonicare__hx9911 .features__item__description {
@@ -251,8 +257,7 @@ div.sonicare__hx9911 {
 
 .sonicare__hx9911 .brush_head__image {
   border-radius: 140px;
-  width: 203px;
-  height: 203px;
+  width: 62%;
   margin-bottom: 18px;
 }
 
@@ -302,6 +307,10 @@ div.sonicare__hx9911 {
   color: #fff;
 }
 
+.sonicare__hx9911 .modes__image {
+  width: 85%;
+}
+
 .sonicare__hx9911 .compatible_heads {
   margin: 0 auto;
   padding: 40px 16px;
@@ -318,6 +327,8 @@ div.sonicare__hx9911 {
   display: flex;
   flex-direction: column;
   gap: 24px;
+  border-radius: 24px;
+  padding: 24px 16px 0px 16px;
   background: #f5f5f5;
 }
 
@@ -353,4 +364,109 @@ div.sonicare__hx9911 {
 }
 .sonicare__hx9911 .compatible_image {
   width: 100%;
+}
+
+.sonicare__hx9911 .application {
+  padding: 40px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sonicare__hx9911 .application__title {
+  margin-bottom: 12px;
+}
+
+.sonicare__hx9911 .application__description {
+  max-width: 296px;
+  margin-bottom: 32px;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: center;
+  color: #1e1e1e;
+}
+
+.sonicare__hx9911 .application__image {
+  width: 100%;
+}
+
+.sonicare__hx9911 .charge {
+  padding: 40px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sonicare__hx9911 .charge__title {
+  margin-bottom: 12px;
+}
+
+.sonicare__hx9911 .charge__description {
+  max-width: 296px;
+  margin-bottom: 32px;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: center;
+  color: #1e1e1e;
+}
+
+.sonicare__hx9911 .charge__image {
+  width: 100%;
+}
+
+.sonicare__hx9911 .equipment {
+  padding: 40px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: center;
+}
+
+.sonicare__hx9911 .equipment__container {
+  max-width: 328px;
+  border-radius: 24px;
+  padding: 24px 16px;
+  background: #f5f5f5;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.sonicare__hx9911 .equipment__list {
+  margin: 0 24px 0 16px;
+}
+
+.sonicare__hx9911 .equipment__item {
+  width: 100%;
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.sonicare__hx9911 .equipment__image {
+  width: 100%;
+}
+
+.sonicare__hx9911 .myphs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  padding: 40px 0 0 0;
+  max-width: 360px;
+}
+
+.sonicare__hx9911 .myphs__image {
+  width: 100%;
+}
+
+.sonicare__hx9911 .footer {
+  padding: 40px 32px;
+  max-width: 360px;
 }
