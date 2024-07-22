@@ -132,7 +132,10 @@ div.sonicare__hx9911 {
   line-height: 150%;
   color: rgba(0, 0, 0, 0.8);
 }
-
+.sonicare__hx9911 .hero {
+  max-width: 360px;
+  margin: 0 auto;
+}
 .sonicare__hx9911 .hero__image {
   height: 204px;
   background-repeat: no-repeat;
@@ -367,6 +370,8 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .application {
+  max-width: 360px;
+  margin: 0 auto;
   padding: 40px 16px;
   display: flex;
   flex-direction: column;
@@ -393,6 +398,8 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .charge {
+  max-width: 360px;
+  margin: 0 auto;
   padding: 40px 16px;
   display: flex;
   flex-direction: column;
@@ -419,6 +426,8 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .equipment {
+  max-width: 360px;
+  margin: 0 auto;
   padding: 40px 16px;
   display: flex;
   flex-direction: column;
@@ -460,6 +469,7 @@ div.sonicare__hx9911 {
   gap: 32px;
   padding: 40px 0 0 0;
   max-width: 360px;
+  margin: 0 auto;
 }
 
 .sonicare__hx9911 .myphs__image {
