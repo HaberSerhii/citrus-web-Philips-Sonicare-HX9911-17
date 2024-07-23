@@ -2,6 +2,19 @@
   padding: 0;
   border-radius: 0px;
 }
+.sonicare__hx9911 .visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
 
 .sonicare__hx9911 img {
   margin: 0;
@@ -133,7 +146,7 @@ div.sonicare__hx9911 {
   color: rgba(0, 0, 0, 0.8);
 }
 .sonicare__hx9911 .hero {
-  max-width: 360px;
+  max-width: 425px;
   margin: 0 auto;
 }
 .sonicare__hx9911 .hero__image {
@@ -141,15 +154,12 @@ div.sonicare__hx9911 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  background-image: url("https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/hero-background.webp");
+  background-image: url("https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/hero-bg.webp");
 }
 
 .sonicare__hx9911 .hero__logo {
+  width: 20%;
   margin-left: 16px;
-}
-
-.sonicare__hx9911 .hero-number_one_logo {
-  width: 28%;
 }
 
 .sonicare__hx9911 .hero__main {
@@ -168,10 +178,29 @@ div.sonicare__hx9911 {
   justify-content: space-around;
 }
 
+.sonicare__hx9911 .white_logo {
+  width: 57px;
+  height: 67px;
+  background-image: url("https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/white_warranty.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.sonicare__hx9911 .hero_warranty {
+  max-width: 89px;
+}
+
+.sonicare__hx9911 .hero_plus_one {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 14px;
+}
 .sonicare__hx9911 .benefits {
   margin: 0 auto;
   padding: 40px 16px;
-  max-width: 360px;
+  max-width: 425px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -201,9 +230,10 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .about {
   margin: 0 auto;
   padding: 40px 16px;
-  max-width: 360px;
+  max-width: 425px;
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 24px;
 }
 
@@ -224,7 +254,7 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .features {
   margin: 0 auto;
   padding: 40px 16px;
-  max-width: 360px;
+  max-width: 425px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -250,7 +280,7 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .brush_head {
   margin: 0 auto;
   padding: 40px 16px;
-  max-width: 360px;
+  max-width: 425px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -267,7 +297,7 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .modes {
   margin: 0 auto;
   padding: 40px 16px;
-  max-width: 360px;
+  max-width: 425px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -317,7 +347,7 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .compatible_heads {
   margin: 0 auto;
   padding: 40px 16px;
-  max-width: 360px;
+  max-width: 425px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -370,7 +400,7 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .application {
-  max-width: 360px;
+  max-width: 425px;
   margin: 0 auto;
   padding: 40px 16px;
   display: flex;
@@ -398,7 +428,7 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .charge {
-  max-width: 360px;
+  max-width: 425px;
   margin: 0 auto;
   padding: 40px 16px;
   display: flex;
@@ -426,7 +456,7 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .equipment {
-  max-width: 360px;
+  max-width: 425px;
   margin: 0 auto;
   padding: 40px 16px;
   display: flex;
@@ -468,7 +498,7 @@ div.sonicare__hx9911 {
   align-items: center;
   gap: 32px;
   padding: 40px 0 0 0;
-  max-width: 360px;
+  max-width: 425px;
   margin: 0 auto;
 }
 
@@ -478,5 +508,528 @@ div.sonicare__hx9911 {
 
 .sonicare__hx9911 .footer {
   padding: 40px 32px;
-  max-width: 360px;
+  max-width: 425px;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .sonicare__hx9911 .hero {
+    min-width: 720px;
+    max-width: 1023px;
+  }
+
+  .sonicare__hx9911 .hero__container {
+    padding: 0 32px;
+    min-width: 656px;
+    height: 408px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url("https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/hero-bg.webp");
+  }
+  .sonicare__hx9911 .hero__image {
+    background: transparent;
+    height: auto;
+    margin-bottom: 28px;
+  }
+
+  .sonicare__hx9911 .white_logo {
+    width: 0px;
+    height: 0px;
+    background: transparent;
+  }
+
+  .sonicare__hx9911 .green_logo {
+    width: 57px;
+    height: 67px;
+    background-image: url("https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/green_warranty.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .sonicare__hx9911 .hero__logo {
+    max-width: 89px;
+    margin-left: 0px;
+  }
+
+  .sonicare__hx9911 .hero__main {
+    padding: 0;
+    background: transparent;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    text-align: left;
+  }
+
+  .sonicare__hx9911 .main__title {
+    max-width: 316px;
+    text-shadow: none;
+  }
+
+  .sonicare__hx9911 .main__description {
+    max-width: 275px;
+  }
+
+  .sonicare__hx9911 .upper__main__title {
+    max-width: 154px;
+  }
+
+  .sonicare__hx9911 .hero__main__warranty {
+    display: flex;
+    flex-direction: row;
+    gap: 14px;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+
+  .sonicare__hx9911 .hero_plus_one {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 14px;
+  }
+
+  .sonicare__hx9911 .benefits {
+    margin: 0 auto;
+    padding: 40px 32px;
+    max-width: 656px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sonicare__hx9911 .benefits__main__container {
+    border-radius: 24px;
+    max-width: 656px;
+    padding: 40px 0px 40px 57px;
+    color: #fff;
+    background: linear-gradient(
+      135deg,
+      #269a91 0%,
+      #5cb9bb 51.04%,
+      #7eddde 100%
+    );
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .sonicare__hx9911 .description__container {
+    max-width: 259px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .sonicare__hx9911 .benefits__title {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+
+  .sonicare__hx9911 .green__title {
+    max-width: 584px;
+  }
+
+  .sonicare__hx9911 .benefits__image {
+    width: 100%;
+    height: 259px;
+  }
+
+  .sonicare__hx9911 .benefits__main__container p {
+    margin: 0;
+  }
+
+  .sonicare__hx9911 .about {
+    margin: 0 auto;
+    padding: 40px 32px;
+    max-width: 656px;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+  }
+
+  .sonicare__hx9911 .about__item {
+    max-width: 202px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .sonicare__hx9911 .about__image {
+    border-radius: 140px;
+    width: 62%;
+  }
+
+  .sonicare__hx9911 .features {
+    margin: 0 auto;
+    padding: 40px 32px;
+    max-width: 656px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .sonicare__hx9911 .features__list {
+    max-width: 328px;
+    margin: 0 0 0 16px;
+  }
+
+  .sonicare__hx9911 .features__image {
+    max-width: 138px;
+  }
+
+  .sonicare__hx9911 .brush_head {
+    margin: 0 auto;
+    padding: 40px 32px;
+    max-width: 656px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: baseline;
+    gap: 24px;
+  }
+
+  .sonicare__hx9911 .brush__title {
+    max-width: 422px;
+    margin-right: 20px;
+  }
+  .sonicare__hx9911 .brush_item {
+    max-width: 202px;
+  }
+
+  .sonicare__hx9911 .brush_head__image {
+    border-radius: 140px;
+    width: 62%;
+    margin-bottom: 18px;
+  }
+
+  .sonicare__hx9911 .modes {
+    margin: 0 auto;
+    padding: 40px 0px;
+    max-width: 656px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 40px;
+    align-items: center;
+  }
+
+  .sonicare__hx9911 .modes__container {
+    border-radius: 24px;
+    padding: 0px 0px 0px 57px;
+    min-width: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 32px;
+    align-items: center;
+    background: linear-gradient(
+      135deg,
+      #269a91 0%,
+      #5cb9bb 51.04%,
+      #7eddde 100%
+    );
+  }
+
+  .sonicare__hx9911 .modes__list {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    list-style-type: none;
+    margin: 0;
+    max-width: 265px;
+    gap: 14px;
+  }
+
+  .sonicare__hx9911 .modes__items {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+    gap: 14px;
+  }
+
+  .sonicare__hx9911 .modes__item__description {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 130%;
+    color: #fff;
+  }
+
+  .sonicare__hx9911 .modes__image {
+    max-width: 283px;
+  }
+
+  .sonicare__hx9911 .compatible_heads {
+    margin: 0 auto;
+    padding: 40px 0px;
+    max-width: 656px;
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
+
+  .sonicare__hx9911 .compatible_heads__container {
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    gap: 32px;
+    padding: 40px 57px 0px 57px;
+    border-radius: 24px;
+    background: #f5f5f5;
+  }
+
+  .sonicare__hx9911 .compatible__logo__container {
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    align-items: flex-start;
+    max-width: 296px;
+  }
+
+  .sonicare__hx9911 .compatible__logo__description {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    color: #000;
+  }
+
+  .sonicare__hx9911 .compatible_logo {
+    width: 22%;
+  }
+
+  .sonicare__hx9911 .compatible_heads__list {
+    margin: 0 0 0 15px;
+    max-width: 296px;
+  }
+
+  .sonicare__hx9911 .compatible_description__container {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+    padding-bottom: 40px;
+  }
+
+  .sonicare__hx9911 .compatible_description__title {
+    text-align: left;
+  }
+
+  .sonicare__hx9911 .compatible_description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: rgba(0, 0, 0, 0.9);
+  }
+  .sonicare__hx9911 .compatible_image {
+    min-width: 203px;
+  }
+
+  .sonicare__hx9911 .application {
+    max-width: 656px;
+    margin: 0 auto;
+    padding: 40px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sonicare__hx9911 .application__title {
+    margin-bottom: 12px;
+  }
+
+  .sonicare__hx9911 .application__description {
+    max-width: 382px;
+    margin-bottom: 32px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #1e1e1e;
+  }
+
+  .sonicare__hx9911 .application__image {
+    width: 100%;
+  }
+
+  .sonicare__hx9911 .charge {
+    max-width: 656px;
+    margin: 0 auto;
+    padding: 40px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sonicare__hx9911 .charge__title {
+    margin-bottom: 12px;
+  }
+
+  .sonicare__hx9911 .charge__description {
+    max-width: 558px;
+    margin-bottom: 32px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #1e1e1e;
+  }
+
+  .sonicare__hx9911 .charge__image {
+    width: 100%;
+  }
+
+  .sonicare__hx9911 .equipment {
+    max-width: 656px;
+    margin: 0 auto;
+    padding: 40px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: center;
+  }
+
+  .sonicare__hx9911 .equipment__container {
+    max-width: 600px;
+    border-radius: 24px;
+    padding: 0 57px;
+    background: #f5f5f5;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 32px;
+  }
+
+  .sonicare__hx9911 .equipment__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 270px;
+    margin: 0 0 0 16px;
+  }
+
+  .sonicare__hx9911 .equipment__item {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: rgba(0, 0, 0, 0.9);
+  }
+
+  .sonicare__hx9911 .equipment__image {
+    max-width: 202px;
+  }
+
+  .sonicare__hx9911 .myphs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    padding: 40px 0 0 0;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .sonicare__hx9911 .myphs__image {
+    max-width: 720px;
+  }
+
+  .sonicare__hx9911 .footer {
+    padding: 40px 32px;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .sonicare__hx9911 .compare {
+    padding-top: 28px;
+    margin: 0 auto;
+    max-width: 720px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .sonicare__hx9911 .compare_title {
+    margin-bottom: 28px;
+  }
+
+  .sonicare__hx9911 .compare_green_subtitle {
+    width: 706px;
+    background: #dff0ef;
+    padding: 8px 14px;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 130%;
+    color: #000;
+  }
+
+  .sonicare__hx9911 .compare__items {
+    display: flex;
+    flex-direction: row;
+  }
+  .sonicare__hx9911 .compare__item {
+    padding: 0px 2px 14px 2px;
+    width: 144px;
+    height: 234px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .sonicare__hx9911 .compare__item_description {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 130%;
+    text-align: center;
+    color: inherit;
+  }
+
+  .sonicare__hx9911 .compare__item_title {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 130%;
+    text-align: center;
+    color: inherit;
+    margin-bottom: 4px;
+  }
+
+  .sonicare__hx9911 .green_compare {
+    background: #68b9b2;
+    color: #fff;
+  }
+
+  .sonicare__hx9911 .compare__attribute {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .sonicare__hx9911 .compare__attribute_item {
+    height: 41px;
+    width: 148px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .sonicare__hx9911 .compare__attribute_circle {
+    height: 41px;
+    width: 148px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .sonicare__hx9911 .compare__attribute_description {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 120%;
+    text-align: center;
+    color: inherit;
+  }
 }
