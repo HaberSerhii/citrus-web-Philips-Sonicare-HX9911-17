@@ -1846,6 +1846,10 @@ div.sonicare__hx9911 {
     font-size: 24px;
   }
 
+  .sonicare__hx9911 .compare__attribute {
+    width: 1366px;
+  }
+
   .sonicare__hx9911 .compare__attribute_item {
     height: 61px;
     width: 273px;
