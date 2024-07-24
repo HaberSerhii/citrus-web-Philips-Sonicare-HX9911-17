@@ -1487,6 +1487,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .hero__container {
+    width: 1246px;
     padding: 0 60px;
   }
 
@@ -1500,7 +1501,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .hero__logo {
-    width: 129px;
+    width: 188px;
   }
 
   .sonicare__hx9911 .hero__main {
@@ -1540,10 +1541,12 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .benefits__main__container {
     border-radius: 40px;
     padding: 60px 0px 60px 106px;
-    width: 1246px;
+    width: 1140px;
+    justify-content: space-between;
   }
   .sonicare__hx9911 .description__container {
-    width: 505px;
+    width: 470px;
+    margin-right: 0;
   }
   .sonicare__hx9911 .benefits__title {
     margin-bottom: 60px;
@@ -1565,7 +1568,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .about {
     padding: 60px;
-    width: 1366px;
+    width: 1246px;
     gap: 60px;
   }
 
@@ -1595,11 +1598,12 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .features__list {
-    width: 328px;
+    width: 399px;
     margin: 0 0 0 32px;
   }
 
   .sonicare__hx9911 .features__item__description {
+    width: 329px;
     font-size: 22px;
   }
 
@@ -1607,9 +1611,13 @@ div.sonicare__hx9911 {
     width: 236px;
   }
 
+  .sonicare__hx9911 .wd {
+    width: 340px;
+  }
+
   .sonicare__hx9911 .brush_head {
     padding: 60px;
-    width: 1366px;
+    width: 1246px;
     gap: 50px;
   }
 
@@ -1620,6 +1628,10 @@ div.sonicare__hx9911 {
   }
   .sonicare__hx9911 .brush_item {
     width: 375px;
+  }
+
+  .sonicare__hx9911 .brush__description {
+    width: 355px;
   }
 
   .sonicare__hx9911 .brush_head__image {
@@ -1638,7 +1650,7 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .modes__container {
     border-radius: 40px;
     padding: 0px 0px 0px 106px;
-    width: 1260px;
+    width: 1140px;
     gap: 60px;
   }
 
@@ -1656,6 +1668,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .modes__item__description {
+    width: 375px;
     font-size: 22px;
   }
 
@@ -1671,7 +1684,7 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .compatible_heads__container {
     border-radius: 40px;
     padding: 60px 60px 0px 60px;
-    width: 1246px;
+    width: 1126px;
     justify-content: center;
     gap: 60px;
   }
@@ -1708,7 +1721,8 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .compatible_description {
-    font-size: 20px;
+    width: 455px;
+    font-size: 26px;
   }
   .sonicare__hx9911 .compatible_image {
     width: 399px;
@@ -1743,7 +1757,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .charge__description {
-    width: 800px;
+    width: 730px;
     margin-bottom: 60px;
     font-size: 26px;
   }
