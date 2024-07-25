@@ -102,7 +102,6 @@ div.sonicare__hx9911 {
   font-size: 24px;
   line-height: 130%;
   color: #269a91;
-  text-align: center;
 }
 
 .sonicare__hx9911 .green__description {
@@ -237,7 +236,7 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .about {
   margin: 0 auto;
   padding: 40px 16px;
-  width: 328px;
+  width: 360px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -261,7 +260,7 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .features {
   margin: 0 auto;
   padding: 40px 16px;
-  width: 328px;
+  width: 360px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -277,7 +276,7 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .features__item__description {
-  width: 280px;
+  width: 309px;
   font-family: var(--font-family);
   font-weight: 400;
   font-size: 14px;
@@ -288,7 +287,7 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .brush_head {
   margin: 0 auto;
   padding: 40px 16px;
-  width: 328px;
+  width: 360px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -297,11 +296,11 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .brush__title {
-  width: 280px;
+  width: 295px;
 }
 
 .sonicare__hx9911 .brush__description {
-  width: 280px;
+  width: 320px;
 }
 
 .sonicare__hx9911 .brush_head__image {
@@ -313,7 +312,7 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .modes {
   margin: 0 auto;
   padding: 40px 16px;
-  width: 328px;
+  width: 360px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -324,7 +323,7 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .modes__container {
   border-radius: 24px;
   padding: 24px 16px 0px 16px;
-  width: 296px;
+  width: 328px;
   display: flex;
   flex-direction: column;
   gap: 32px;
@@ -363,14 +362,14 @@ div.sonicare__hx9911 {
 .sonicare__hx9911 .compatible_heads {
   margin: 0 auto;
   padding: 40px 16px;
-  width: 328px;
+  width: 360px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
 .sonicare__hx9911 .compatible_heads__container {
-  width: 296px;
+  width: 328px;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -411,7 +410,7 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .compatible_description {
-  width: 280px;
+  width: 275px;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -422,7 +421,7 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .application {
-  width: 328px;
+  width: 360px;
   margin: 0 auto;
   padding: 40px 16px;
   display: flex;
@@ -431,7 +430,9 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .application__title {
+  width: 328px;
   margin-bottom: 12px;
+  text-align: center;
 }
 
 .sonicare__hx9911 .application__description {
@@ -447,10 +448,11 @@ div.sonicare__hx9911 {
 
 .sonicare__hx9911 .application__image {
   width: 328px;
+  border-radius: 24px;
 }
 
 .sonicare__hx9911 .charge {
-  width: 328px;
+  width: 360px;
   margin: 0 auto;
   padding: 40px 16px;
   display: flex;
@@ -459,7 +461,9 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .charge__title {
+  width: 320px;
   margin-bottom: 12px;
+  text-align: center;
 }
 
 .sonicare__hx9911 .charge__description {
@@ -479,7 +483,7 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .equipment {
-  width: 328px;
+  width: 360px;
   margin: 0 auto;
   padding: 40px 16px;
   display: flex;
@@ -489,7 +493,7 @@ div.sonicare__hx9911 {
 }
 
 .sonicare__hx9911 .equipment__container {
-  width: 296px;
+  width: 328px;
   border-radius: 24px;
   padding: 24px 16px;
   background: #f5f5f5;
@@ -500,6 +504,11 @@ div.sonicare__hx9911 {
 
 .sonicare__hx9911 .equipment__list {
   margin: 0 24px 0 16px;
+}
+
+.sonicare__hx9911 .equipment__title {
+  width: 320px;
+  text-align: center;
 }
 
 .sonicare__hx9911 .equipment__item {
@@ -523,14 +532,17 @@ div.sonicare__hx9911 {
   width: 360px;
   margin: 0 auto;
 }
-
+.sonicare__hx9911 .myphs__title {
+  width: 290px;
+  text-align: center;
+}
 .sonicare__hx9911 .myphs__image {
   width: 360px;
 }
 
 .sonicare__hx9911 .footer {
   padding: 40px 32px;
-  width: 296px;
+  width: 360px;
   margin: 0 auto;
 }
 
@@ -541,7 +553,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .hero__container {
     padding: 0 32px;
-    width: 656px;
+    width: 720px;
     height: 408px;
     background-repeat: no-repeat;
     background-position: center;
@@ -616,7 +628,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .benefits {
     padding: 40px 32px;
-    width: 656px;
+    width: 720px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -624,7 +636,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .benefits__main__container {
     border-radius: 24px;
-    width: 599px;
+    width: 656px;
     padding: 40px 0px 40px 57px;
     color: #fff;
     background: linear-gradient(
@@ -646,7 +658,7 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .benefits__title {
     text-align: center;
     margin-bottom: 32px;
-    width: 420px;
+    width: 445px;
   }
 
   .sonicare__hx9911 .benefits__image {
@@ -661,7 +673,7 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .about {
     margin: 0 auto;
     padding: 40px 32px;
-    width: 656px;
+    width: 720px;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -692,15 +704,15 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .features__item__description {
-    width: 200px;
+    width: 210px;
   }
   .sonicare__hx9911 .wd {
-    width: 150px;
+    width: 205px;
   }
 
   .sonicare__hx9911 .features__list {
-    width: 259px;
-    margin: 0 0 0 16px;
+    width: 245px;
+    margin: 0 0 0 32px;
   }
 
   .sonicare__hx9911 .features__image {
@@ -710,7 +722,7 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .brush_head {
     margin: 0 auto;
     padding: 40px 32px;
-    width: 656px;
+    width: 720px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -756,7 +768,7 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .modes__container {
     border-radius: 24px;
     padding: 0px 0px 0px 57px;
-    width: 599px;
+    width: 656px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -776,7 +788,7 @@ div.sonicare__hx9911 {
     align-items: flex-start;
     list-style-type: none;
     margin: 0;
-    width: 265px;
+    width: 285px;
     gap: 14px;
   }
 
@@ -809,7 +821,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .compatible_heads__container {
-    width: 542px;
+    width: 656px;
     margin: 0 auto;
     display: flex;
     flex-direction: row-reverse;
@@ -841,7 +853,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .compatible_heads__list {
-    margin: 0 0 0 15px;
+    margin: 0 0 0 25px;
     width: 296px;
   }
 
@@ -858,13 +870,14 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .compatible_description {
+    width: 295px;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
     color: rgba(0, 0, 0, 0.9);
   }
   .sonicare__hx9911 .compatible_image {
-    width: 203px;
+    width: 202px;
   }
 
   .sonicare__hx9911 .application {
@@ -909,7 +922,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .charge__description {
-    width: 500px;
+    width: 555px;
     margin-bottom: 32px;
     font-family: var(--font-family);
     font-weight: 400;
@@ -934,12 +947,13 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .equipment__container {
-    width: 600px;
+    width: 656px;
     border-radius: 24px;
     padding: 0 28px;
     background: #f5f5f5;
     display: flex;
     flex-direction: row-reverse;
+    justify-content: space-evenly;
     gap: 32px;
   }
 
@@ -947,8 +961,8 @@ div.sonicare__hx9911 {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 270px;
-    margin: 0 0 0 16px;
+    width: 280px;
+    margin: 0;
   }
 
   .sonicare__hx9911 .equipment__item {
@@ -979,7 +993,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .footer {
     padding: 40px 32px;
-    width: 656px;
+    width: 720px;
     margin: 0 auto;
   }
 
@@ -997,7 +1011,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .compare_green_subtitle {
-    width: 692px;
+    width: 720px;
     background: #dff0ef;
     padding: 8px 14px;
     font-family: var(--font-family);
@@ -1013,7 +1027,7 @@ div.sonicare__hx9911 {
   }
   .sonicare__hx9911 .compare__item {
     padding: 0px 2px 0 2px;
-    width: 140px;
+    width: 144px;
     height: 234px;
     display: flex;
     flex-direction: column;
@@ -1093,7 +1107,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .hero__container {
     padding: 0 40px;
-    width: 896px;
+    width: 976px;
     height: auto;
   }
 
@@ -1120,17 +1134,17 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .main__title {
     font-size: 44px;
-    width: 416px;
+    width: 425px;
   }
 
   .sonicare__hx9911 .main__description {
     font-size: 24px;
-    width: 360px;
+    width: 370px;
   }
 
   .sonicare__hx9911 .upper__main__title {
     font-size: 16px;
-    width: 180px;
+    width: 185px;
   }
   .sonicare__hx9911 .hero_warranty {
     width: 129px;
@@ -1152,7 +1166,7 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .benefits {
     margin: 0 auto;
     padding: 42px 40px;
-    width: 896px;
+    width: 976px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -1162,14 +1176,13 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .benefits__main__container {
     border-radius: 32px;
     padding: 40px 0px 40px 77px;
-    width: 819px;
+    width: 896px;
   }
   .sonicare__hx9911 .description__container {
-    width: 320px;
-    margin-right: 38px;
+    width: 360px;
   }
   .sonicare__hx9911 .benefits__title {
-    width: 580px;
+    width: 585px;
     margin-bottom: 40px;
   }
 
@@ -1188,7 +1201,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .about {
     padding: 42px 40px;
-    width: 696px;
+    width: 976px;
     gap: 40px;
     justify-content: center;
     align-items: flex-start;
@@ -1212,7 +1225,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .features {
     padding: 42px 40px;
-    width: 896px;
+    width: 976px;
     justify-content: center;
   }
 
@@ -1222,7 +1235,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .features__item__description {
-    width: 300px;
+    width: 305px;
     font-size: 18px;
   }
 
@@ -1232,7 +1245,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .brush_head {
     padding: 42px 40px;
-    width: 896px;
+    width: 976px;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
@@ -1241,8 +1254,12 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .brush__title {
-    width: 640px;
-    margin-right: 0px;
+    width: 585px;
+    margin-right: 20px;
+  }
+
+  .sonicare__hx9911 .brush__description {
+    width: 272px;
   }
   .sonicare__hx9911 .brush_item {
     width: 272px;
@@ -1262,7 +1279,7 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .modes__container {
     border-radius: 32px;
     padding: 0px 0px 0px 77px;
-    width: 819px;
+    width: 876px;
     gap: 42px;
   }
 
@@ -1273,6 +1290,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .modes__items {
     gap: 28px;
+    width: 385px;
   }
 
   .sonicare__hx9911 .modes__items img {
@@ -1296,7 +1314,7 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .compatible_heads__container {
     border-radius: 32px;
     padding: 40px 77px 0 77px;
-    width: 742px;
+    width: 896px;
     justify-content: center;
   }
 
@@ -1305,7 +1323,7 @@ div.sonicare__hx9911 {
     flex-direction: row;
     gap: 24px;
     align-items: flex-start;
-    width: 350px;
+    width: 355px;
   }
 
   .sonicare__hx9911 .compatible__logo__description {
@@ -1336,6 +1354,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .compatible_description {
     font-size: 20px;
+    width: 365px;
   }
   .sonicare__hx9911 .compatible_image {
     width: 282px;
@@ -1348,10 +1367,11 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .application__title {
     margin-bottom: 12px;
+    width: 600px;
   }
 
   .sonicare__hx9911 .application__description {
-    width: 500px;
+    width: 550px;
     margin-bottom: 32px;
     font-size: 20px;
   }
@@ -1371,7 +1391,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .charge__description {
-    width: 650px;
+    width: 700px;
     margin-bottom: 40px;
     font-size: 20px;
   }
@@ -1390,12 +1410,12 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .equipment__container {
     border-radius: 32px;
     padding: 0px 77px;
-    width: 742px;
+    width: 896px;
     gap: 40px;
   }
 
   .sonicare__hx9911 .equipment__list {
-    width: 350px;
+    width: 400px;
     margin: 0 0 0 32px;
   }
 
@@ -1419,7 +1439,7 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .footer {
     padding: 42px 40px;
-    width: 896px;
+    width: 976px;
   }
 
   .sonicare__hx9911 .comments {
@@ -1435,7 +1455,7 @@ div.sonicare__hx9911 {
     margin-bottom: 40px;
   }
   .sonicare__hx9911 .compare_green_subtitle {
-    width: 940px;
+    width: 976px;
     padding: 12px 18px;
     font-size: 22px;
   }
@@ -1482,13 +1502,13 @@ div.sonicare__hx9911 {
   }
 }
 
-@media (min-width: 1366px) {
+@media (min-width: 1440px) {
   .sonicare__hx9911 .hero {
     width: 1366px;
   }
 
   .sonicare__hx9911 .hero__container {
-    width: 1246px;
+    width: 1366px;
     padding: 0 60px;
   }
 
@@ -1517,12 +1537,12 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .main__description {
     font-size: 32px;
-    width: 481px;
+    width: 585px;
   }
 
   .sonicare__hx9911 .upper__main__title {
     font-size: 18px;
-    width: 200px;
+    width: 230px;
   }
 
   .sonicare__hx9911 .hero__main__warranty {
@@ -1542,16 +1562,16 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .benefits__main__container {
     border-radius: 40px;
     padding: 60px 0px 60px 106px;
-    width: 1140px;
+    width: 1246px;
     justify-content: space-between;
   }
   .sonicare__hx9911 .description__container {
-    width: 470px;
+    width: 505px;
     margin-right: 0;
   }
   .sonicare__hx9911 .benefits__title {
     margin-bottom: 60px;
-    width: 780px;
+    width: 855px;
   }
 
   .sonicare__hx9911 .green__title {
@@ -1585,11 +1605,13 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .about__title {
+    width: 310px;
     font-size: 26px;
     margin-bottom: 14px;
   }
   .sonicare__hx9911 .about__description {
     font-size: 20px;
+    width: 375px;
   }
 
   .sonicare__hx9911 .features {
@@ -1604,8 +1626,12 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .features__item__description {
-    width: 329px;
+    width: 366px;
     font-size: 22px;
+  }
+
+  .sonicare__hx9911 .wd {
+    width: 355px;
   }
 
   .sonicare__hx9911 .features__image {
@@ -1613,12 +1639,12 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .wd {
-    width: 340px;
+    width: 355px;
   }
 
   .sonicare__hx9911 .brush_head {
     padding: 60px;
-    width: 1246px;
+    width: 1366px;
     gap: 50px;
   }
 
@@ -1632,7 +1658,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .brush__description {
-    width: 355px;
+    width: 375px;
   }
 
   .sonicare__hx9911 .brush_head__image {
@@ -1646,21 +1672,22 @@ div.sonicare__hx9911 {
     gap: 60px;
   }
   .modes__title {
-    width: 629px;
+    width: 729px;
   }
   .sonicare__hx9911 .modes__container {
     border-radius: 40px;
     padding: 0px 0px 0px 106px;
-    width: 1140px;
+    width: 1246px;
     gap: 60px;
   }
 
   .sonicare__hx9911 .modes__list {
-    width: 550px;
+    width: 595px;
     gap: 16px;
   }
 
   .sonicare__hx9911 .modes__items {
+    width: 595px;
     gap: 36px;
   }
 
@@ -1669,7 +1696,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .modes__item__description {
-    width: 375px;
+    width: 410px;
     font-size: 22px;
   }
 
@@ -1685,7 +1712,7 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .compatible_heads__container {
     border-radius: 40px;
     padding: 60px 60px 0px 60px;
-    width: 1126px;
+    width: 1246px;
     justify-content: center;
     gap: 60px;
   }
@@ -1722,7 +1749,7 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .compatible_description {
-    width: 455px;
+    width: 565px;
     font-size: 26px;
   }
   .sonicare__hx9911 .compatible_image {
@@ -1735,11 +1762,12 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .application__title {
+    width: 600px;
     margin-bottom: 18px;
   }
 
   .sonicare__hx9911 .application__description {
-    width: 750px;
+    width: 785px;
     margin-bottom: 60px;
     font-size: 26px;
   }
@@ -1754,11 +1782,12 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .charge__title {
+    width: 600px;
     margin-bottom: 18px;
   }
 
   .sonicare__hx9911 .charge__description {
-    width: 730px;
+    width: 775px;
     margin-bottom: 60px;
     font-size: 26px;
   }
@@ -1777,13 +1806,13 @@ div.sonicare__hx9911 {
   .sonicare__hx9911 .equipment__container {
     border-radius: 40px;
     padding: 0px 106px;
-    width: 1034px;
+    width: 1246px;
     gap: 60px;
     justify-content: center;
   }
 
   .sonicare__hx9911 .equipment__list {
-    width: 465px;
+    width: 565px;
     margin: 0 0 0 32px;
   }
 
@@ -1807,12 +1836,12 @@ div.sonicare__hx9911 {
 
   .sonicare__hx9911 .footer {
     padding: 60px 40px;
-    width: 1286px;
+    width: 1366px;
     margin: 0 auto;
   }
 
   .sonicare__hx9911 .comments {
-    width: 1150px;
+    width: 1246px;
     font-size: 14px;
   }
 
@@ -1826,17 +1855,21 @@ div.sonicare__hx9911 {
   }
 
   .sonicare__hx9911 .compare_green_subtitle {
-    width: 1318px;
+    width: 1366px;
     padding: 18px 24px;
     font-size: 24px;
   }
+
+  .sonicare__hx9911 .compare__items {
+    width: 1366px;
+  }
   .sonicare__hx9911 .compare__item {
     padding: 0px 2px 0 2px;
-    width: 269px;
+    width: 273px;
     height: 422px;
   }
   .sonicare__hx9911 .compare__item img {
-    width: 269px;
+    width: 273px;
   }
 
   .sonicare__hx9911 .compare__item_description {
@@ -1864,9 +1897,11 @@ div.sonicare__hx9911 {
     font-size: 24px;
   }
   .sonicare__hx9911 .visually-hidden {
+    width: 1366px;
     padding: 60px 0 0 0;
   }
 }
+
 </style>
 <div class="sonicare__hx9911">
         <section class="hero">
@@ -1877,14 +1912,15 @@ div.sonicare__hx9911 {
                         alt="Philips_Sonicare_HX9911_logo">
                 </div>
                 <div class="hero__main">
-                    <h3 class="main__title">Видаляє до 20 разів більше нальоту*</h3>
-                    <p class="main__description">Електрична звукова зубна щітка
+                    <h3 class="main__title">Удаляет до 20 раз больше налёта*</h3>
+                    <p class="main__description">Електрическая звуковая зубная щетка
                         Philips Sonicare HX9911/17
                         Diamond Clean 9000 </p>
                     <div class="hero__main__warranty">
                         <div class="hero_plus_one">
                             <div class="green_logo white_logo"></div>
-                            <p class="upper__main__title">При реєстрації продукту на сайті виробника.</p>
+                            <p class="upper__main__title">При регистрации продукта
+                                на сайте производителя.</p>
                         </div>
                         <img class="hero_warranty"
                             src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/recomendation.svg"
@@ -1894,28 +1930,22 @@ div.sonicare__hx9911 {
             </div>
         </section>
         <section class="benefits">
-            <h3 class="benefits__title green__title">Philips Sonicare — професійний догляд
-                за ротовою порожниною</h3>
+            <h3 class="benefits__title green__title">Philips Sonicare — профессиональный уход
+                за полостью рта</h3>
             <div class="benefits__main__container">
                 <div class="description__container">
-                    <p class="green__description">Philips Sonicare <span class="span__green__description">забезпечує
-                            усім
-                            необхідним для</span>
-                        здоров'я ротової порожнини
-                        і бездоганної усмішки.
-                        <span class="span__green__description">Обираючи товари
-                            Sonicare, створені і схвалені професійними стоматологами, </span>ви отримуєте надзвичайні
-                        результати.**
+                    <p class="green__description">Philips Sonicare <span class="span__green__description">обеспечивает
+                            всем необходимым для</span>
+                        здоровья полости рта и безупречной улыбки.
+                        <span class="span__green__description">Выбирая продукты Sonicare, созданные и одобренные
+                            профессиональными стоматологами, </span>вы получаете потрясающие результаты.**
                     </p>
                     <p class="benefits__description green__description"><span
-                            class="span__green__description">Маючи</span> понад 100-річний
-                        досвід <span class="span__green__description">співпраці з фахівцями в сфері охорони
-                            здоров'я, Sonicare </span><span class="bold__green__description">покращує стан
-                            вашої ротової
-                            порожнини, підтримуючи її здоров'я</span><span class="span__green__description"> і надаючи
-                            вам
-                            впевненості
-                            у собі.</span></p>
+                            class="span__green__description">Имея</span> более чем 100-летний опыт <span
+                            class="span__green__description">сотрудничества со специалистами в сфере здравоохранения,
+                            Sonicare </span><span class="bold__green__description">улучшает состояние вашей полости рта,
+                            поддерживая ее здоровье</span><span class="span__green__description"> и придавая вам
+                            уверенность в себе.</span></p>
                 </div>
                 <img class="benefits__image"
                     src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/proffesional.webp"
@@ -1926,60 +1956,53 @@ div.sonicare__hx9911 {
             <div class="about__item">
                 <img class="about__image"
                     src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/about_1.webp" alt="">
-                <h3 class="about__title">Видаляє до 20 разів більше нальоту**</h3>
-                <p class="about__description">Чистьте без компромісів з універсальною насадкою A3 Premium та звуковою
-                    технологією Sonic — щетинки
-                    роблять до 62 000
-                    рухів в хвилину, а динамічний потік рідини допомагає очистити навіть важкодоступні ділянки,
-                    забезпечуючи виняткове
-                    відчуття свіжості й чистоти.</p>
+                <h3 class="about__title">Удаляет до 20 раз
+                    больше налета**</h3>
+                <p class="about__description">Чистите без компромиссов с универсальной насадкой A3 Premium и звуковой
+                    технологией Sonic – щетинки делают до 62 000
+                    движений в минуту, а динамический поток жидкости помогает очистить даже труднодоступные участки,
+                    обеспечивая
+                    исключительное чувство свежести и чистоты.</p>
             </div>
             <div class="about__item">
                 <img class="about__image"
                     src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/about_2.webp" alt="">
-                <h3 class="about__title">Датчик тиску</h3>
-                <p class="about__description">Ви можете не помічати, що сильно тиснете на зуби, а зубна щітка
-                    DiamondClean 9000 це відчує. При
-                    надмірному тиску щіткою
-                    на зуби, вона подаватиме вібрацію, а значок нагадування про заміну насадки щітки блиматиме жовтим.
-                    Це попередження, що
-                    треба зменшити натиск і дати насадці для щітки виконати свою роботу.</p>
+                <h3 class="about__title">Датчик давления</h3>
+                <p class="about__description">Вы можете не замечать, что сильно давите на зубы, а зубная щетка
+                    DiamondClean 9000 это почувствует. При чрезмерном
+                    давлении щеткой на зубы она будет подавать вибрацию, а значок напоминания о замене насадки щетки
+                    будет мигать желтым.
+                    Это предупреждение, что нужно уменьшить нажим и дать насадке для щетки выполнить свою работу.</p>
             </div>
             <div class="about__item">
                 <img class="about__image"
                     src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/about_3.webp" alt="">
-                <h3 class="about__title">Технологія BrushSync</h3>
-                <p class="about__description">BrushSync сповістить вас про час заміни насадки на нову. Також повідомить,
-                    яку насадку ви
-                    використовуєте та вибере
-                    оптимальний режим та інтенсивність, щоб забезпечити обережний, але ефективний догляд.</p>
+                <h3 class="about__title">Технология BrushSync</h3>
+                <p class="about__description">BrushSync известит вас о времени замены насадки новой. Сообщит, какую
+                    насадку вы используете и выберет оптимальный режим
+                    и интенсивность, чтобы обеспечить осторожный, но эффективный уход.</p>
             </div>
         </section>
         <section class="features">
             <ul class="features__list">
                 <li class="features__item">
-                    <p class="features__item__description">62 тис рухів за хвилину.</p>
+                    <p class="features__item__description">62 тыс движений в минуту.</p>
                 </li>
                 <li class="features__item">
-                    <p class="features__item__description">Прогресивна звукова технологія Philips Sonicare спрямовує
-                        потік води між зубами, що разом з рухом
-                        щітки руйнує та усуває
-                        наліт.</p>
+                    <p class="features__item__description">Прогрессивная звуковая технология Philips Sonicare направляет
+                        поток воды между зубами, что вместе с движением щетки
+                        разрушает и устраняет налет.</p>
                 </li>
                 <li class="features__item">
-                    <p class="features__item__description">Оповіщає про надмірний тиск.</p>
+                    <p class="features__item__description">Уведомляет о чрезмерном давлении.</p>
                 </li>
                 <li class="features__item">
-                    <p class="features__item__description">Стежить за тривалістю чищення.</p>
+                    <p class="features__item__description">Следит за продолжительностью чистки.</p>
                 </li>
                 <li class="features__item">
-                    <p class="features__item__description">Технологія BrushSync відстежує тривалість використання
-                        насадки.</p>
-                </li>
-                <li class="features__item">
-                    <p class="features__item__description">для щітки та інтенсивність чищення, а також повідомить вас,
-                        коли прийде час замінити насадку для
-                        чищення на нову.</p>
+                    <p class="features__item__description">Технология BrushSync отслеживает продолжительность
+                        использования насадки для щетки и интенсивность чистки, а также
+                        уведомит вас, когда придет время заменить насадку для чистки на новую.</p>
                 </li>
             </ul>
             <img class="features__image"
@@ -1987,70 +2010,68 @@ div.sonicare__hx9911 {
                 alt="Philips_Sonicare_HX9911">
             <ul class="features__list">
                 <li class="features__item">
-                    <p class="features__item__description wd">до 200 рухів за хвилину.</p>
+                    <p class="features__item__description wd">до 200 движений в минуту.</p>
                 </li>
                 <li class="features__item">
-                    <p class="features__item__description wd">Ефективність залежить від типу щітки, техніки чищення та
-                        часу, що витрачається на чищення зубів.
+                    <p class="features__item__description wd">Эффективность зависит от типа щетки, техники чистки
+                        и времени, которое тратится на чистку зубов.
                     </p>
                 </li>
             </ul>
         </section>
         <section class="brush_head">
-            <h3 class="green__title brush__title">Преміальна універсальна насадка для повного догляду</h3>
+            <h3 class="green__title brush__title">Премиальная универсальная насадка
+                для полного ухода</h3>
             <div class="brush_item"><img class="brush_head__image"
                     src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/premium_1.webp"
                     alt="Philips_Sonicare_HX9911">
                 <h3 class="about__title">Насадка A3 Premium</h3>
-                <p class="about__description brush__description">Наша найкраща насадка має вигнуті щетинки для видалення
-                    до 20 разів більшої кількості нальоту навіть
-                    у важкодоступних
-                    місцях.**</p>
+                <p class="about__description brush__description">Наша лучшая насадка имеет изогнутые щетинки для
+                    удаления до 20 раз больше налета даже в труднодоступных местах.**</p>
             </div>
             <div class=" brush_item"><img class="brush_head__image"
                     src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/premium_2.webp"
                     alt="Philips_Sonicare_HX9911">
-                <h3 class="about__title">Унікальні щетинки</h3>
-                <p class="about__description brush__description ">Трикутні кінчики видаляють до 100% більше плям менш
-                    ніж
-                    за два дні.***</p>
+                <h3 class="about__title">Уникальные щетинки</h3>
+                <p class="about__description brush__description ">Треугольные кончики удаляют до 100% больше пятен менее
+                    чем за два дня.***</p>
             </div>
             <div class="brush_item"><img class="brush_head__image"
                     src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/premium_3.webp"
                     alt="Philips_Sonicare_HX9911">
-                <h3 class="about__title">Довші щетинки</h3>
-                <p class="about__description brush__description">Глибоко чистять біля ясен, які стають у 15 разів
-                    здоровішими всього за два тижні.****</p>
+                <h3 class="about__title">Более длинные щетинки</h3>
+                <p class="about__description brush__description">Глубоко чистят у десен, которые становятся в 15 раз
+                    здоровее всего за две недели.****</p>
             </div>
         </section>
         <section class="modes">
-            <h3 class="modes__title green__title">4 режими, 3 рівні інтенсивності</h3>
+            <h3 class="modes__title green__title">4 режима, 3 уровня интенсивности</h3>
             <div class="modes__container">
                 <ul class="modes__list">
                     <li class="modes__items">
                         <img src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/icon_1.svg"
                             alt="Philips_Sonicare_HX9911">
-                        <p class="modes__item__description">Clean: для щоденного використання</p>
+                        <p class="modes__item__description">Clean: для ежедневного использования</p>
                     </li>
                     <li class="modes__items">
                         <img src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/icon_2.svg"
                             alt="Philips_Sonicare_HX9911">
-                        <p class="modes__item__description">White+: для відбілювання ваших зубів</p>
+                        <p class="modes__item__description">White+: для отбеливания ваших зубов</p>
                     </li>
                     <li class="modes__items">
                         <img src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/icon_3.svg"
                             alt="Philips_Sonicare_HX9911">
-                        <p class="modes__item__description">Gum health: для чутливих зубів та ясен</p>
+                        <p class="modes__item__description">Gum health: для чувствительных зубов и десен</p>
                     </li>
                     <li class="modes__items">
                         <img src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/icon_4.svg"
                             alt="Philips_Sonicare_HX9911">
-                        <p class="modes__item__description">Deep clean+: для більш ретельного очищення</p>
+                        <p class="modes__item__description">Deep clean+: для более тщательной очистки</p>
                     </li>
                     <li class="modes__items">
                         <img src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/icon_5.svg"
                             alt="Philips_Sonicare_HX9911">
-                        <p class="modes__item__description">Три рівні інтенсивності</p>
+                        <p class="modes__item__description">Три уровня интенсивности</p>
                     </li>
                 </ul>
                 <img class="modes__image" src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/modes.webp"
@@ -2060,24 +2081,24 @@ div.sonicare__hx9911 {
         <section class="compatible_heads">
             <div class="compatible_heads__container">
                 <div class="compatible_description__container">
-                    <h3 class="green__title compatible_description__title">Кожна насадка Philips Sonicare сумісна з
-                        усіма
-                        щітками Philips Sonicare
+                    <h3 class="green__title compatible_description__title">Каждая насадка Philips Sonicare совместима со
+                        всеми щетками Philips Sonicare
                     </h3>
                     <div class="compatible__logo__container"><img class="compatible_logo"
                             src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/compatible_logo.svg"
                             alt="Philips_Sonicare_HX9911">
-                        <p class="compatible__logo__description">Рекомендовано замінювати кожні 3 місяці
-                            для 100% ефективності</p>
+                        <p class="compatible__logo__description">Рекомендовано заменять каждые 3 месяца для 100%
+                            эффективности</p>
                     </div>
                     <div>
-                        <p class="compatible_description">Ознаки того, що час замінити насадку:</p>
+                        <p class="compatible_description">Признаки того, что пора заменить насадку:</p>
                         <ul class="compatible_heads__list">
                             <li class="compatible_heads__item">
-                                <p class="compatible_description">Блакитні щетинки почали біліти</p>
+                                <p class="compatible_description">Голубые щетинки начали белеть
+                                </p>
                             </li>
                             <li class="compatible_heads__item">
-                                <p class="compatible_description">Індикатор BrushSync повідомляє про необхідність заміни
+                                <p class="compatible_description">Индикатор BrushSync сообщает о необходимости замены
                                 </p>
                             </li>
                         </ul>
@@ -2089,28 +2110,31 @@ div.sonicare__hx9911 {
             </div>
         </section>
         <section class="application">
-            <h3 class="application__title green__title">Застосунок Philips Sonicare</h3>
-            <p class="application__description">Застосунок допомагає слідкувати за тривалістю чищення та покращує
-                ефективність догляду.</p>
+            <h3 class="application__title green__title">Приложение Philips Sonicare</h3>
+            <p class="application__description">Приложение помогает следить за продолжительностью чистки и улучшает
+                эффективность ухода.</p>
             <img class="application__image" src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/appl.webp"
                 alt="Philips_Sonicare_HX9911">
         </section>
         <section class="charge">
-            <h3 class="charge__title green__title">Просте заряджання</h3>
-            <p class="charge__description">До 2 тижнів без підзарядки.***** Для заряджання просто помістіть вашу
-                електричну зубну щітку в стакан із зарядною базою.
-                А зручний дорожній футляр зарядить щітку через USB у тривалих поїздках.</p>
+            <h3 class="charge__title green__title">Простое заряжание</h3>
+            <p class="charge__description">До 2 недель без подзарядки.***** Для подзарядки просто поместите вашу
+                электрическую зубную щетку в стакан с зарядной
+                базой. А удобный дорожный футляр зарядит щетку через USB в продолжительных поездках.</p>
             <img class="charge__image" src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/charging.webp"
                 alt="Philips_Sonicare_HX9911">
         </section>
         <section class="equipment">
-            <h3 class="green__title">Комплектація</h3>
+            <h3 class="green__title equipment__title">Комплектация</h3>
             <div class="equipment__container">
                 <ul class="equipment__list">
-                    <li class="equipment__item">Електрична зубна щітка Philips Sonicare Diamondclean 9000;</li>
-                    <li class="equipment__item">Насадка A3 Premium All-in-One - 1 шт;</li>
-                    <li class="equipment__item">Дорожній USB-футляр для заряджання;</li>
-                    <li class="equipment__item">Скляний стакан із зарядною платформою.</li>
+                    <li class="equipment__item">Электрическая зубная щетка Philips Sonicare Diamondclean 9000;
+                    </li>
+                    <li class="equipment__item">Насадка A3 Premium All-in-One - 1шт;
+                    </li>
+                    <li class="equipment__item">Дорожный USB-футляр для подзарядки;
+                    </li>
+                    <li class="equipment__item">Стеклянный стакан с зарядной платформой.</li>
                 </ul>
                 <img class="equipment__image"
                     src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/equip.webp"
@@ -2118,13 +2142,13 @@ div.sonicare__hx9911 {
             </div>
         </section>
         <section class="myphs">
-            <h3 class="green__title">Міфи про звукові зубні щітки</h3>
+            <h3 class="green__title myph__title">Мифы о звуковых зубных щетках</h3>
             <img class="myphs__image" src="https://i.citrus.world/uploads/Haber/Philips_Sonicare_HX9911/myph.webp"
                 alt="">
         </section>
         <section class="compare visually-hidden">
             <h3 class="green__title compare_title">
-                Таблиця порівняння
+                Сравнительная таблица
             </h3>
             <div class="compare__container">
                 <div class="compare__items">
@@ -2162,7 +2186,7 @@ div.sonicare__hx9911 {
                         <p class="compare__item_description">HX3673/**</p>
                     </div>
                 </div>
-                <p class="compare_green_subtitle">Кількість режимів</p>
+                <p class="compare_green_subtitle">Количество режимов</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_item">
                         <p class="compare__attribute_description">Режим SenseIQ</p>
@@ -2180,7 +2204,7 @@ div.sonicare__hx9911 {
                         <p class="compare__attribute_description">1</p>
                     </div>
                 </div>
-                <p class="compare_green_subtitle">Рівні інтенсивності</p>
+                <p class="compare_green_subtitle">Уровни интенсивности</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_item">
                         <p class="compare__attribute_description">Режим SenseIQ</p>
@@ -2198,7 +2222,7 @@ div.sonicare__hx9911 {
                         <p class="compare__attribute_description">1</p>
                     </div>
                 </div>
-                <p class="compare_green_subtitle">Кількість рухів щетинок</p>
+                <p class="compare_green_subtitle">Количество движений щетинок</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_item">
                         <p class="compare__attribute_description">до 62 000</p>
@@ -2216,7 +2240,7 @@ div.sonicare__hx9911 {
                         <p class="compare__attribute_description">до 31 000</p>
                     </div>
                 </div>
-                <p class="compare_green_subtitle">Інтервальний таймер</p>
+                <p class="compare_green_subtitle">Интервальный таймер</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_circle"><svg width="12" height="9" viewBox="0 0 12 9" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -2239,7 +2263,7 @@ div.sonicare__hx9911 {
                             <ellipse cx="5.93359" cy="4.50613" rx="3" ry="3.27273" fill="black" />
                         </svg></div>
                 </div>
-                <p class="compare_green_subtitle">Функція "Легкий старт"</p>
+                <p class="compare_green_subtitle">Функция "Легкий старт"</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_circle"><svg width="12" height="9" viewBox="0 0 12 9" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -2262,7 +2286,7 @@ div.sonicare__hx9911 {
                             <ellipse cx="5.93359" cy="4.50613" rx="3" ry="3.27273" fill="black" />
                         </svg></div>
                 </div>
-                <p class="compare_green_subtitle">Нагадування про зміну насадки</p>
+                <p class="compare_green_subtitle">Напоминание о замене насадки</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_circle"><svg width="12" height="9" viewBox="0 0 12 9" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -2285,7 +2309,7 @@ div.sonicare__hx9911 {
                             <ellipse cx="5.93359" cy="4.50613" rx="3" ry="3.27273" fill="black" />
                         </svg></div>
                 </div>
-                <p class="compare_green_subtitle">Функція під'єднання BrushSync</p>
+                <p class="compare_green_subtitle">Функция BrushSync</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_circle"><svg width="12" height="9" viewBox="0 0 12 9" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -2308,7 +2332,7 @@ div.sonicare__hx9911 {
                             <ellipse cx="5.93359" cy="4.50613" rx="3" ry="3.27273" fill="black" />
                         </svg></div>
                 </div>
-                <p class="compare_green_subtitle">Датчик надлишкового тиску</p>
+                <p class="compare_green_subtitle">Датчик чрезмерного давления</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_circle"><svg width="12" height="9" viewBox="0 0 12 9" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -2354,7 +2378,7 @@ div.sonicare__hx9911 {
                             <rect width="18" height="1" transform="matrix(1 0 0 -1 0.400391 6.00586)" fill="black" />
                         </svg></div>
                 </div>
-                <p class="compare_green_subtitle">Дорожній футляр</p>
+                <p class="compare_green_subtitle">Дорожный футляр</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_circle"><svg width="12" height="9" viewBox="0 0 12 9" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -2377,7 +2401,7 @@ div.sonicare__hx9911 {
                             <rect width="18" height="1" transform="matrix(1 0 0 -1 0.400391 6.00586)" fill="black" />
                         </svg></div>
                 </div>
-                <p class="compare_green_subtitle">Bluetooth і мобільний застосунок</p>
+                <p class="compare_green_subtitle">Bluetooth и мобильное приложение</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_circle"><svg width="12" height="9" viewBox="0 0 12 9" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -2400,35 +2424,38 @@ div.sonicare__hx9911 {
                             <rect width="18" height="1" transform="matrix(1 0 0 -1 0.400391 6.00586)" fill="black" />
                         </svg></div>
                 </div>
-                <p class="compare_green_subtitle">Час роботи акумулятора</p>
+                <p class="compare_green_subtitle">Время работы аккумулятора</p>
                 <div class="compare__attribute">
                     <div class="compare__attribute_item">
-                        <p class="compare__attribute_description">до 2 тижнів</p>
+                        <p class="compare__attribute_description">до 2 недель</p>
                     </div>
                     <div class="compare__attribute_item green_compare">
-                        <p class="compare__attribute_description">до 2 тижнів</p>
+                        <p class="compare__attribute_description">до 2 недель</p>
                     </div>
                     <div class="compare__attribute_item">
-                        <p class="compare__attribute_description">до 2 тижнів</p>
+                        <p class="compare__attribute_description">до 2 недель</p>
                     </div>
                     <div class="compare__attribute_item">
-                        <p class="compare__attribute_description">до 2 тижнів</p>
+                        <p class="compare__attribute_description">до 2 недель</p>
                     </div>
                     <div class="compare__attribute_item">
-                        <p class="compare__attribute_description">до 2 тижнів</p>
+                        <p class="compare__attribute_description">до 2 недель</p>
                     </div>
                 </div>
             </div>
         </section>
         <section class="footer">
-            <p class="comments">*Дослідження ПП «ЦМФІ «Медикал Дата Менеджмент» «Зубні щітки Power & Sonic: оцінка
-                ключових ринкових показників», 400
-                САТІ інтерв’ю зі стоматологами (грудень 2021), міста: Київ, Харків, Дніпро, Одеса, Львів.</p>
-            <p class="comments">**У порівнянні з мануальною щіткою.</p>
-            <p class="comments">***У порівнянні з мануальною щіткою. У лабораторних дослідженнях, фактичні результати
-                можуть
-                змінюватися.</p>
-            <p class="comments">****При використанні з насадкою для щітки A3 порівняно з мануальною зубною щіткою.</p>
-            <p class="comments">****У разі використання двічі на день протягом двох хвилин у стандартному режимі.</p>
+            <p class="comments">*Исследование ЧП «ЦМФИ «Медикал Дата Менеджмент» «Зубные щетки Power&Sonic: оценка
+                ключевых рыночных показателей», 400
+                САТИ интервью со стоматологами (декабрь 2021), города: Киев, Харьков, Днепр, Одесса, Львов.
+            </p>
+            <p class="comments">**По сравнению с мануальной щеткой.
+            </p>
+            <p class="comments">***В сравнении с мануальной щеткой. В лабораторных исследованиях фактические результаты
+                могут отличаться.
+            </p>
+            <p class="comments">****При использовании с насадкой для кисти A3 по сравнению с мануальной зубной щеткой.
+            </p>
+            <p class="comments">****При использовании дважды в день в течение двух минут в стандартном режиме.</p>
         </section>
     </div>
